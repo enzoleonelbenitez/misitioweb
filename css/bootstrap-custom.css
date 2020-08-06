@@ -4632,7 +4632,8 @@ input[type="button"].btn-block {
 
 .navbar-toggler {
   background-color: transparent;
-  border: 1px solid transparent;
+  color: black;
+  border: 1px solid ;
   border-radius: 0.25rem;
   font-size: 1.25rem;
   line-height: 1;
@@ -4648,6 +4649,7 @@ input[type="button"].btn-block {
   background: no-repeat center center;
   background-size: 100% 100%;
   content: "";
+  color: gray;
   display: inline-block;
   height: 1.5em;
   vertical-align: middle;
